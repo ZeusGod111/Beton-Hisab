@@ -28,7 +28,7 @@ jobs:
       - name: Extract project
         run: |
           mkdir project
-          unzip -q Beton_Hisab_Offline_FIXED.zip -d project
+          unzip -q Beton_Hisab_v2_WITH_LOGO.zip -d project
 
       - name: Find project folder
         run: |
